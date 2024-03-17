@@ -96,7 +96,7 @@
         <label> Pizza Title</label>
         <div class="red-text"><?php echo $error['title']; ?></div>
         <input type="text" name="title" value="<?php echo htmlspecialchars($title)  ?>">
-        <label >Ingredients (comma separeted):</label>
+        <label >Ingrediants (comma separeted):</label>
         <div class="red-text"><?php echo $error['ingrediants']; ?></div>
         <input type="text"  name="ingrediants" value="<?php echo  htmlspecialchars($ingrediants) ?>">
         <div class="center">
