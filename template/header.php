@@ -23,9 +23,9 @@
 <body class="grey lighten-4">
     <nav class="white z-depth-0">
         <div class="container"> 
-            <a href="#" class="brand-logo brand-text">MiniPizza</a>
+            <a href="miniproject.php" class="brand-logo brand-text">MiniPizza</a>
             <ul id="nav-mobile" class="right hide-on-small-and-down">
-                <li><a href="#" class="btn brand z-depth-0">Pizza laylo</a></li>
+                <li><a href="additem.php" class="btn brand z-depth-0">Pizza laylo</a></li>
             </ul>
         </div>
     </nav>
